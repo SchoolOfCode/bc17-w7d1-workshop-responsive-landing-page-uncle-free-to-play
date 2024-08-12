@@ -4,9 +4,32 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
-
+/* heading styling */
 .header-site{
 font-size : 0.5rem;
-
+}
+/* main section hero styling */
+.hero {
+  display: grid;
+  grid-template-rows: 1fr 0.5fr;
+}
+/* main section hero orange text box styling*/
+p {
+  margin: 0.75rem 0.5rem 0.75rem 0.5rem;
+}
+.text-box {
+  background-color: orange;
+  height: 22vh;
+  font-weight:bold;
+}
+.bold-font {
+  font-size : 2rem;
+}
+.small-font {
+  font-size: 1.2rem;
+}
+.phone-style {
+  color: white;
 }
 
+/* main section how it works styling */
