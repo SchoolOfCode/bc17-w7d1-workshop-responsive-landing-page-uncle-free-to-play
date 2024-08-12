@@ -1,4 +1,12 @@
-body{
-    background-color: red;
+
+* {
+  font-family: "Aleo", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.header-site{
+font-size : 0.5rem;
 
 }
+
