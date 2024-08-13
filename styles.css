@@ -33,3 +33,27 @@ p {
 }
 
 /* main section how it works styling */
+
+.how-it-works-wrapper{
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  
+
+}
+
+.how-it-works{
+  text-align: center;
+}
+
+
+
+
+
+
+/*footer*/
+
+
+.footer{
+  display: flex;
+  justify-content:center;
+}
